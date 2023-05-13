@@ -1,2 +1,3 @@
 A React Advice App...
-[React.js] on the front end and made get requests to Advice Slip JSON API..
+
+Using React on the front end and made get requests to Advice Slip JSON API..
